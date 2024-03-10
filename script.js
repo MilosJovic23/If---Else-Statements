@@ -11,6 +11,8 @@ if (boja == "crvena") {
 } else {
 	dugme.style.backgroundColor = "green";
 }
+
+
 //
 var bojaTeksta = prompt("izaberite boju teksta").toLowerCase();
 
@@ -20,7 +22,10 @@ if (bojaTeksta == "plava") {
 	dugme.style.color = "red";
 }
 
+
+
 //
+
 
 let visina = prompt("Unesite visinu dugmeta");
 
